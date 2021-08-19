@@ -84,7 +84,7 @@
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REACTOR, general purpose investigation/visualisation software for cryptocurrency analysis, the tool shows with in-depth detail where the value transfer of cryptocurrencies such as Bitcoin. They did not restrict them to any particular cryptocurrency which gives the tool a broad appeal and opened further opportunities into complimentary industries. The real competitive advantage other competitors do not offer is in two folds. One, Chainalysis has been capturing and creating a database of all the endpoints in the Cryptocurrency world since 2014  - this may include the IP addresses, poly network address, device fingerprints, using various algorithms to help validate their data. It is this validity of this data that makes them competitive, it is also claimed by Chainalysis that their validity of data is held up in the court of law. Second, their association and clientele with US law enforcement agencies that helps them with the credibiility of being a trusted source of transaction monitor - if it's good enough for the government, it's good enough for me mentality.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REACTOR, one of Chainalysis general purpose investigation/visualisation software for cryptocurrency analysis, the tool shows with in-depth detail where the value transfer of cryptocurrencies such as Bitcoin. They did not restrict them to any particular cryptocurrency which gives the tool a broad appeal and opened further opportunities into complimentary industries. The real competitive advantage other competitors do not offer is in two folds. One, Chainalysis has been capturing and creating a database of all the endpoints in the Cryptocurrency world since 2014  - this may include the IP addresses, poly network address, device fingerprints, using various algorithms to help validate their data. It is this validity of this data that makes them competitive, it is also claimed by Chainalysis that their validity of data is held up in the court of law. Second, their association and clientele with US law enforcement agencies that helps them with the credibiility of being a trusted source of transaction monitor - if it's good enough for the government, it's good enough for me mentality.
 
 Here is an example of the visualisation of transfer of value through the cryptocurrency world:
 <br>
@@ -140,7 +140,7 @@ Sourced: [^5]
 <br>
 
 ***
-## **Results**
+## **Results:**
 ***
 
 <br>
@@ -149,6 +149,9 @@ Sourced: [^5]
 
     Chainalysis's estimated annual revenue is currently $29.9M per year
 Sourced: [^6]
+
+<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Although not reflective of the financials, Chainalysis has brought a level of transparency that Cryptocurrencies are promised to bring, this comes in the form of being able to trace transfer of value across different cryptocurrencies and doing so with high degrees of confidence. Their service will no doubt eventuate to broader confidence of the uptake of cryptocurrencies.
 
 <br>
@@ -173,7 +176,7 @@ Sourced: [^7]
 
 
 ***
-## **Recommendations**
+## **Recommendations:**
 ***
 <br>
 
@@ -206,7 +209,9 @@ APIs, open source software and a sustainable source of electricity to keep the '
 > **Why are these technologies appropriate for your solution?**
 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The fundamental building blocks are to spread the secure blocks across the globe. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The fundamental building blocks of a blockchain are to spread the secure blocks across the globe and APIs to help read/write to each block.
+
 <br>
 
 ***
@@ -217,11 +222,15 @@ APIs, open source software and a sustainable source of electricity to keep the '
 
 *[EY2019 RegTech report](https://regtech.org.au/resources/Documents/2019-ccaf-global-regtech-benchmarking-report.pdf)*
 
+*[Deloitte list of Regtech](https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html/#tab5)*
 
 *[HGDATA](https://discovery.hgdata.com/product/chainalysis)*
 
 *[Podcast by Jonathan Levin](https://www.techstars.com/the-line/podcasts/know-the-problem-that-youre-trying-to-solve-with-jonathan-levin)*
 
+*[Insights from Chainalysis blog 1](https://blog.chainalysis.com/reports/series-c-announcement)*
+
+*[Insights from Chainalysis blog 2](https://blog.chainalysis.com/reports/bitcoin-gains-by-country-2020)*
 
 
 [^1]: https://www.ndtv.com/business/crypto-market-reclaims-market-cap-of-2-trillion-fuelled-by-gains-in-bitcoin-and-likes-of-cardano-xrp-and-dogecoin-2511266
